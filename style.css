@@ -12,13 +12,14 @@ div {
   font-family: "Helvetica Neue";
   background: white;
   padding:30px;
-  font-size: 22px;
+
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
   color:red;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
